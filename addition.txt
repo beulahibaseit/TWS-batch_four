@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#Addition of two numbers
+
+num1=8;
+num2=9;
+
+sum=$(($num1 + $num2))
+
+echo "Sum is: $sum"
